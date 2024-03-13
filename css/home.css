@@ -18,6 +18,11 @@
     justify-content: end;
 }
 
+.spacer{
+    height: 30px;
+    width: 100%;
+}
+
 .display h1{
     color: white;
     bottom: 0;
@@ -28,6 +33,7 @@
 .calc-btns{
     display: flex;
     flex-direction: column;
+    margin-top: 10px;
 
 }
 
